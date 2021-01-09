@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UFT-8?">
+<!DOCTYPE students SYSTEM "skill task.dtd">
+<student>
+     <student id="a">
+     <no>19001</no>
+     <name>Varshitha</name>
+     <email>varshitha@gmail.com</email>
+     <marks>95</marks>
+     <class>CSE A</class>
+  </student>
+  <student id="b">
+     <no>19002</no>
+     <name>Harshitha</name>
+     <email>harshitha@gmail.com</email>
+     <marks>91</marks>
+     <class>CSE B</class>
+   </student>
+   <student id="c">
+        <no>19003</no>
+        <name>Madhu</name>
+        <email>madhu@gmail.com</email>
+        <marks>85</marks>
+        <class>EEE B</class>
+    </student>
+    <student id="d">
+          <no>19004</no>
+          <name>Aruna</name>
+          <email>aruna@gmail.com</email>
+          <marks>98</marks>
+          <class>IT A</class>
+    </student>
+    <student id="e">
+            <no>19005</no>
+            <name>Rishi</name>
+            <email>rishi@gmail.com</email>
+              <marks>92</marks>
+              <class>ECE B</class>
+</student>
+</students>
